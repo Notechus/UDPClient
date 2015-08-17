@@ -1,0 +1,240 @@
+Aug 15, 2015 8:38:11 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 8:41:10 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 8:51:51 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 8:58:03 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:09:37 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:10:56 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:13:07 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:14:36 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:15:20 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:21:04 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:21:59 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:29:30 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:31:47 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:32:13 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:38:45 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:38:55 PM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 15, 2015 9:38:55 PM udpclient.UDPClient echo
+INFO: Will be sending Type = Ale nie Query = nie e 
+Aug 15, 2015 9:38:55 PM udpclient.UDPClient echo
+INFO: 127.0.0.1 : 7777 - Recieved packet
+Aug 15, 2015 9:40:34 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 15, 2015 9:40:49 PM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 15, 2015 9:40:49 PM udpclient.UDPClient echo
+INFO: Will be sending Type = Firm Query = Querrry
+Aug 15, 2015 9:40:49 PM udpclient.UDPClient echo
+INFO: 127.0.0.1 : 7777 - Recieved packet
+Aug 15, 2015 9:41:29 PM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 15, 2015 9:41:29 PM udpclient.UDPClient echo
+INFO: Will be sending Type = Nie Query = Nieprawda
+Aug 15, 2015 9:41:29 PM udpclient.UDPClient echo
+INFO: 127.0.0.1 : 7777 - Recieved packet
+Aug 16, 2015 12:35:56 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 12:36:02 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 16, 2015 12:36:02 AM udpclient.UDPClient echo
+INFO: Will be sending Type = hkbk Query = dgd
+Aug 16, 2015 1:12:26 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 1:55:24 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 1:55:27 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 16, 2015 1:55:27 AM udpclient.UDPClient echo
+INFO: Will be sending Type = asd Query = das
+Aug 16, 2015 1:55:27 AM udpclient.UDPClient echo
+INFO: 127.0.0.1 : 7777 - Recieved packet
+Aug 16, 2015 2:00:37 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 2:00:46 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 16, 2015 2:00:46 AM udpclient.UDPClient echo
+INFO: Will be sending Type = Nie Query = Ma
+Aug 16, 2015 2:00:46 AM udpclient.UDPClient echo
+INFO: 127.0.0.1 : 7777 - Recieved packet
+Aug 16, 2015 2:03:35 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 2:03:48 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 16, 2015 2:03:48 AM udpclient.UDPClient echo
+INFO: Will be sending Type = asd Query = asd
+Aug 16, 2015 2:03:48 AM udpclient.UDPClient echo
+INFO: 127.0.0.1 : 7777 - Recieved packet
+Aug 16, 2015 2:07:13 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 2:07:16 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 16, 2015 2:07:16 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = ds
+Aug 16, 2015 2:07:16 AM udpclient.UDPClient echo
+INFO: 127.0.0.1 : 7777 - Recieved packet
+Aug 16, 2015 2:10:01 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 2:10:06 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 16, 2015 2:10:06 AM udpclient.UDPClient echo
+INFO: Will be sending Type = dsa Query = das
+Aug 16, 2015 2:14:13 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 2:14:15 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 16, 2015 2:14:15 AM udpclient.UDPClient echo
+INFO: Will be sending Type = ad Query = asd
+Aug 16, 2015 2:24:45 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 2:26:23 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 2:26:29 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 16, 2015 2:26:29 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sad Query = asd
+Aug 16, 2015 2:30:53 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 16, 2015 2:31:00 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 16, 2015 2:31:00 AM udpclient.UDPClient echo
+INFO: Will be sending Type = asd Query = asd
+Aug 16, 2015 2:31:00 AM udpclient.UDPClient echo
+INFO: 178.183.143.216 : 7777 - Recieved packet
+Aug 17, 2015 9:25:52 AM udpclient.UDPClient echo
+INFO: Started application
+Aug 17, 2015 9:25:56 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:25:56 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:25:56 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:25:56 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:25:59 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:25:59 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:25:59 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:25:59 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:00 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:00 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:00 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:00 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:01 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:02 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Socket closed
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: 178.183.141.26 : 7777 - Recieved packet Type = sd Query = sd
+Aug 17, 2015 9:26:03 AM udpclient.UDPClient echo
+INFO: Socket closed
