@@ -42,7 +42,6 @@ public class UDPClient {
         try {
             sock = new DatagramSocket();
 
-            //InetAddress host = InetAddress.getByName("localhost");
             //take input and send the packet
             echo("Enter message to send: ");
             ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
