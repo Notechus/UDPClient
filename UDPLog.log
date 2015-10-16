@@ -342,3 +342,9 @@ Aug 26, 2015 2:30:08 PM udpclient.UDPClient echo
 INFO: 178.183.140.235 : 7777 - Recieved packet Type = sd Query = sd
 Aug 26, 2015 2:30:08 PM udpclient.UDPClient echo
 INFO: Socket closed
+Aug 31, 2015 9:35:52 PM udpclient.UDPClient echo
+INFO: Started application
+Aug 31, 2015 9:35:55 PM udpclient.UDPClient echo
+INFO: Enter message to send: 
+Aug 31, 2015 9:35:55 PM udpclient.UDPClient echo
+INFO: Will be sending Type = sd Query = sd
